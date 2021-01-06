@@ -1,0 +1,29 @@
+{
+  "name": "platzi-webpack-4",
+  "version": "1.0.0",
+  "description": "weppack course platzi",
+  "main": "index.js",
+  "scripts": {
+    "build": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/caarbelaezg/Platzi-Webpack-4.git"
+  },
+  "keywords": [
+    "wepak",
+    "course",
+    "webpack"
+  ],
+  "author": "Carlos Arbelaez",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/caarbelaezg/Platzi-Webpack-4/issues"
+  },
+  "homepage": "https://github.com/caarbelaezg/Platzi-Webpack-4#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "webpack": "4.32.2",
+    "webpack-cli": "3.3.2"
+  }
+}
